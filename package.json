@@ -1,0 +1,14 @@
+{
+  "name": "serverwebtest2026",
+  "version": "1.0.0",
+  "description": "mon premier siteweb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NoaDelattre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
