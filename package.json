@@ -1,7 +1,7 @@
 {
   "name": "serverwebtest2026",
   "version": "1.0.0",
-  "description": "mon premier siteweb",
+  "description": "https://github.com/NoaDelattre/serverWebTest2026",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
